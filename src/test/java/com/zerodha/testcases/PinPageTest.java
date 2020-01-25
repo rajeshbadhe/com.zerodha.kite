@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import com.zerodha.base.BaseClass;
 import com.zerodha.pages.LoginPage;
 import com.zerodha.pages.PinPage;
-
+//comment
 public class PinPageTest extends BaseClass 
 {
 	public PinPageTest() throws Exception
